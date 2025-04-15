@@ -8,4 +8,4 @@
 
 ## 使用方法
 1. 安装依赖：`pip install -r requirements.txt`
-2. 运行接口：`python chat_interface/main.py`
+
